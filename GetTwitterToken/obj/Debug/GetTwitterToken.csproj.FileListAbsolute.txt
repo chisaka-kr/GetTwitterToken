@@ -1,0 +1,16 @@
+c:\users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\bin\Debug\GetTwitterToken.exe.config
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\obj\Debug\GetTwitterToken.csprojResolveAssemblyReference.cache
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\obj\Debug\GetTwitterToken.Form1.resources
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\obj\Debug\GetTwitterToken.Properties.Resources.resources
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\obj\Debug\GetTwitterToken.csproj.GenerateResource.Cache
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\bin\Debug\GetTwitterToken.exe
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\bin\Debug\GetTwitterToken.pdb
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\bin\Debug\Autofac.dll
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\bin\Debug\Microsoft.Threading.Tasks.dll
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\bin\Debug\Newtonsoft.Json.dll
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\bin\Debug\Tweetinvi.dll
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\bin\Debug\Tweetinvi.pdb
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\obj\Debug\GetTwitterToken.exe
+c:\Users\chisaka\Documents\Visual Studio 2015\Projects\GetTwitterToken\GetTwitterToken\obj\Debug\GetTwitterToken.pdb
